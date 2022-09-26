@@ -5,7 +5,7 @@
     },
     "scripts": {
         "test": "jest",
-        "multiple_execution": "for i in {1..10}; do npx jest --silent || (echo `Failed` && break); done"
+        "multiple_execution": "for i in {1..1000}; do npx jest --silent || (echo `Failed` && break); done"
     },
     "dependencies": {
         "@katalon/testops-jest": "^1.2.2"

@@ -1,6 +1,6 @@
 {   
     "basePath":"https://testops.staging.katalon.com",
     "apiKey": "1f04fcd7-5c3f-4ec6-9f37-6fbf61e9c3e4",
-    "projectId": "373099",
-    "reportFolder": "testops-report"
+   "projectId": "373284",
+   "reportFolder": "testops-report"
 }
